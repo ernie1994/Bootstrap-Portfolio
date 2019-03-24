@@ -1,0 +1,86 @@
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url(images/prism.png);
+}
+
+p {
+    padding: 5px 18px;
+}
+
+#content {
+    margin-bottom: 75px;
+}
+
+#name-header {
+ color: white;
+ background-color: #4aaaa5;
+ padding-top: 10px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ height: 100%;
+ text-align: center;
+ font-weight: bold;
+ line-height: 100%;
+ font-size: 26px;
+}
+
+#img-row {
+    margin-bottom: 15px;
+}
+
+#about-me {
+    color: #4aaaa5;
+    margin: 15px 25px;
+    line-height: 80px;
+    height: 80px;
+    font-size: 30px;
+    text-align: left;
+    border-bottom: 2px solid #cccccc;
+}
+
+.paragraph-content {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    line-height: 175%;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.white-bg {
+    background-color: white;
+}
+
+.top-buffer {
+    margin-top:20px;
+ }
+
+ .no-buffer {
+     margin-top: 0px;
+     margin-bottom: 0px;
+ }
+
+ footer {
+    border-top: 8px solid #4aaaa5;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 12px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 60px;
+    line-height: 52px;
+    padding: 0px;
+}
+
+form {
+    margin: 15px 25px;
+}
+
+
+
